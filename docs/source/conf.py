@@ -14,7 +14,7 @@ release = '0.0.1'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = ['myst_nb']
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -26,3 +26,6 @@ language = 'es'
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
+
+source_suffix = ['.rst', '.md']
+

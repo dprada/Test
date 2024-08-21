@@ -9,3 +9,5 @@ dependencies:
 - sphinx-remove-toctrees
 - sphinx-copybutton
 - myst-nb
+- matplotlib
+- jupyterlab

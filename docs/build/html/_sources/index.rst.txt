@@ -6,12 +6,12 @@
 Cosmic Muffin documentation
 ===========================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
+Esta documentación de prueba ha sido generada para un taller del Grupo de Ciencia Computacional HIMFG.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   contents/introduction.md
+   contents/tutorial_1.ipynb
 
